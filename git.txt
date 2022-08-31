@@ -3,3 +3,5 @@
 3.git add -A(to add all untrcked files to staging area)
 4.git commit -m "msg type"(to add files in staging area to local respository)
 5.git log (to display all commit or all version
+6.go to git hub create a respositary and copy its path
+7.git remote add 'name' path
